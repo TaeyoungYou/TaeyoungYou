@@ -16,6 +16,6 @@
 </div>
 <div align="center">
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ty.always)](https://velog.io/@taeyoung4778/posts)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ty.always)](https://github.com/eungyeole/velog-readme-stats)
 
 </div>

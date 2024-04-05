@@ -6,7 +6,7 @@
 <hr/>
 <div align="center">
   
-**### Tech Stack**
+### Tech Stack
 
 </div>
 <div align="center">
@@ -17,7 +17,7 @@
 </br>
 <div align="center">
 
-**### Studying**
+### Studying
 
 </div>
 <div align="center">

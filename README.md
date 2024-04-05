@@ -8,7 +8,7 @@
 <div align="center"> Tech Stack </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-20232a.svg?style=for-the-badge&logo=Oracle&logoColor=F80000" />
-<a href=""><img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/></a>
+<img src="https://img.shields.io/badge/PostgreSQL-20232a.svg?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1" />
 </div>
 
 </br>

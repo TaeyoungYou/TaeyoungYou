@@ -6,7 +6,7 @@
 <hr/>
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeyoungYou)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeyoungYou&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <div align="center">
@@ -16,6 +16,6 @@
 </div>
 <div align="center">
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=taeyoung4778&color=dark)](https://velog.io/@taeyoung4778/posts)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=taeyoung4778)](https://velog.io/@taeyoung4778/posts)
 
 </div>

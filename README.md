@@ -1,4 +1,4 @@
-<a href="https://velog.io/@taeyoung4778/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=appveyor&logoColor=white"/></a>
+<a href="https://velog.io/@taeyoung4778/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=velog&logoColor=white"/></a>
 
 <!--
 **TaeyoungYou/TaeyoungYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

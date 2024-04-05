@@ -15,8 +15,8 @@
 
 <div align="center"> Studying </div>
 <div align="center">
-<a href+""><img width="64" height="64" src="https://img.icons8.com/external-filled-line-andi-nur-abdillah/64/external-Data-Structure-artificial-intelligence-(filled-line)-filled-line-andi-nur-abdillah.png" alt="external-Data-Structure-artificial-intelligence-(filled-line)-filled-line-andi-nur-abdillah"/></a>
-<img src="https://img.shields.io/badge/The%20Algorithms-20232a.svg?style=for-the-badge&logo=The-Algorithms&logoColor=00BCB4" />
+<img src="https://img.shields.io/badge/Data%20Structure-20232a.svg?style=for-the-badge&logo=DataStax&logoColor=000000" />
+<img src="https://img.shields.io/badge/Algorithms-20232a.svg?style=for-the-badge&logo=The-Algorithms&logoColor=00BCB4" />
 
 </div>
 </br>

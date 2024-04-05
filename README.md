@@ -5,7 +5,7 @@
 </div>
 <hr/>
 
-### Tech Stack
+<p align="ceneter">### Tech Stack</p>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-20232a.svg?style=for-the-badge&logo=Oracle&logoColor=F80000" />
 <img src="https://img.shields.io/badge/PostgreSQL-20232a.svg?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1" />

@@ -1,10 +1,13 @@
 <div align="center"><a href="https://github.com/TaeyoungYou"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=200&section=header&text=Taeyoung%20You&fontSize=55&fontColor=FFFFFF&fontAlign=70&fontAlignY=40&desc=Side%20Project%20Storage&descAlign=80&descAlignY=60&theme=tokyonight" /></a></div>
 
-<div align="center"> $**Tech Stack**$ </div>
+<div align="center"> Tech Stack </div>
 <div align="center">
 <a href=""><img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/></a>
 <a href=""><img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/></a>
 </div>
+
+<div align="center"> Studying </div>
+<img width="64" height="64" src="https://img.icons8.com/external-outline-andi-nur-abdillah/64/external-Data-Structure-artificial-intelligence-(outline)-outline-andi-nur-abdillah.png" alt="external-Data-Structure-artificial-intelligence-(outline)-outline-andi-nur-abdillah"/>
 
 <div align="center">
 <a href="https://velog.io/@taeyoung4778/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-141414?style=flat-square&logo=velog&logoColor=white"/></a> <a href="https://www.instagram.com/big._.zer0/" target="_blank"><img src="https://img.shields.io/badge/instagram-141414?style=flat-square&logo=instagram&logoColor=white"/></a> <a href="mailto:taeyoung.you12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/taeyoung.you12@gmail.com-141414?style=flat-square&logo=gmail&logoColor=white&link=mailto:taeyoung.you12@gmail.com"/></a>

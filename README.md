@@ -7,7 +7,12 @@
 </div>
 
 <div align="center"> Studying </div>
-<img width="64" height="64" src="https://img.icons8.com/external-outline-andi-nur-abdillah/64/external-Data-Structure-artificial-intelligence-(outline)-outline-andi-nur-abdillah.png" alt="external-Data-Structure-artificial-intelligence-(outline)-outline-andi-nur-abdillah"/>
+<div align="center">
+<a href+""><img width="64" height="64" src="https://img.icons8.com/external-filled-line-andi-nur-abdillah/64/external-Data-Structure-artificial-intelligence-(filled-line)-filled-line-andi-nur-abdillah.png" alt="external-Data-Structure-artificial-intelligence-(filled-line)-filled-line-andi-nur-abdillah"/></a>
+<img width="48" height="48" src="https://img.icons8.com/color/48/genealogy.png" alt="genealogy"/>
+
+</div>
+
 
 <div align="center">
 <a href="https://velog.io/@taeyoung4778/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-141414?style=flat-square&logo=velog&logoColor=white"/></a> <a href="https://www.instagram.com/big._.zer0/" target="_blank"><img src="https://img.shields.io/badge/instagram-141414?style=flat-square&logo=instagram&logoColor=white"/></a> <a href="mailto:taeyoung.you12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/taeyoung.you12@gmail.com-141414?style=flat-square&logo=gmail&logoColor=white&link=mailto:taeyoung.you12@gmail.com"/></a>

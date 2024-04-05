@@ -6,11 +6,11 @@
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeyoungYou)](https://github.com/anuraghazra/github-readme-stats&theme=holi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaeyoungYou)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeyoungYou&theme=holi&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeyoungYou&hide=contribs,prs&theme=holi&show_icons=true)
 
 </div>

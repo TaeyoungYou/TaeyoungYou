@@ -11,6 +11,6 @@
 </div>
 <div align="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeyoungYou)](https://github.com/anuraghazra/github-readme-stats&show-icons=true&theme=holi)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeyoungYou)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=holi)
 
 </div>

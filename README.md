@@ -13,7 +13,7 @@
 
 </br>
 
-<div align="center"> Studying </div>
+$**Studying**$
 <div align="center">
 <img src="https://img.shields.io/badge/Data%20Structure-20232a.svg?style=for-the-badge&logo=DataStax&logoColor=000000" />
 <img src="https://img.shields.io/badge/Algorithms-20232a.svg?style=for-the-badge&logo=The-Algorithms&logoColor=00BCB4" />

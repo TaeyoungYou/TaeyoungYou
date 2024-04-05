@@ -11,6 +11,8 @@
 <a href=""><img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/></a>
 </div>
 
+</br>
+
 <div align="center"> Studying </div>
 <div align="center">
 <a href+""><img width="64" height="64" src="https://img.icons8.com/external-filled-line-andi-nur-abdillah/64/external-Data-Structure-artificial-intelligence-(filled-line)-filled-line-andi-nur-abdillah.png" alt="external-Data-Structure-artificial-intelligence-(filled-line)-filled-line-andi-nur-abdillah"/></a>

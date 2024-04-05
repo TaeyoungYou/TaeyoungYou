@@ -1,6 +1,6 @@
 <div align="center"><a href="https://github.com/TaeyoungYou"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=200&section=header&text=Taeyoung%20You&fontSize=55&fontColor=FFFFFF&fontAlign=70&fontAlignY=40&desc=Side%20Project%20Storage&descAlign=80&descAlignY=60&theme=tokyonight" /></a></div>
 
-<div align="center"> **Tech Stack** </div>
+<div align="center" style="font-weight:bolder"> Tech Stack </div>
 <div align="center">
 <a href=""><img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/></a>
 <a href=""><img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/></a>

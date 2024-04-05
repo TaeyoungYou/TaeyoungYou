@@ -14,3 +14,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeyoungYou&hide=contribs,prs&theme=holi&show_icons=true)
 
 </div>
+<div align="center">
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ty.always)](https://velog.io/@taeyoung4778/posts)
+
+</div>

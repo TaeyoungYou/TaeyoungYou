@@ -4,11 +4,11 @@
 <a href="https://velog.io/@taeyoung4778/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-141414?style=flat-square&logo=velog&logoColor=white"/></a> <a href="https://www.instagram.com/big._.zer0/" target="_blank"><img src="https://img.shields.io/badge/instagram-141414?style=flat-square&logo=instagram&logoColor=white"/></a> <a href="mailto:taeyoung.you12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/taeyoung.you12@gmail.com-141414?style=flat-square&logo=gmail&logoColor=white&link=mailto:taeyoung.you12@gmail.com"/></a>
 </div>
 <hr/>
-<div align="center" style="color:skyblue">
+<div align="center"><span style="color:skyblue">
   
 ### Tech Stack
 
-</div>
+</span></div>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-20232a.svg?style=for-the-badge&logo=Oracle&logoColor=F80000" />
 <img src="https://img.shields.io/badge/PostgreSQL-20232a.svg?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1" />
